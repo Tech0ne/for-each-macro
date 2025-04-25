@@ -119,7 +119,7 @@ int main()
 }
 ```
 
-![Output of code](images/cool_output.png Output of the code)
+![Output of code](images/cool_output.png "Output of the code")
 
 ## Notes
 
@@ -127,7 +127,7 @@ This tool was made more for the PoC than to be explicitly usefull.
 
 For that reason, and others (including "I don't know how to fix that 'problem'" and "I'm lazy"), if you misspell something, the compilation process will give a reeeeally long output.
 
-![Misspell error](images/misspell_error.png This is caused by a misspell)
+![Misspell error](images/misspell_error.png "This is caused by a misspell")
 
 Be carefull of that when using this implementation.
 
