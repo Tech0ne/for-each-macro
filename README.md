@@ -1,6 +1,6 @@
 # for-each-macro
 
-C preprocessor hack for "for_each" __VA_ARGS__ expension
+C preprocessor hack for "for_each" \_\_VA_ARGS__ expension
 
 ## What ?
 
